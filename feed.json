@@ -5,7 +5,7 @@
     "home_page_url": "https://associazionepersonagentile.github.io/marche",
     "feed_url": "https://associazionepersonagentile.github.io/marche/feed.json",
     "user_comment": "",
-    "icon": "https://associazionepersonagentile.github.io/marche/media/website/ico-bambino-logo.png",
+    "icon": "https://associazionepersonagentile.github.io/marche/media/website/goccia.png",
     "author": {
         "name": "ABIO Pesaro"
     },
@@ -61,7 +61,7 @@
         {
             "id": "https://associazionepersonagentile.github.io/marche/giornate-nazionali-abio/",
             "url": "https://associazionepersonagentile.github.io/marche/giornate-nazionali-abio/",
-            "title": "Giornate mondiale della Gentilezza",
+            "title": "Giornata della Gentilezza",
             "summary": "La Giornata mondiale della Gentilezza si tiene ogni anno il 13 di novembre",
             "content_html": "<p><strong>La Giornata mondiale della Gentilezza si tiene ogni anno il 13 di novembre</strong></p>",
             "image": "https://associazionepersonagentile.github.io/marche/media/posts/87/02_giornate_nazionali.png",
@@ -72,7 +72,7 @@
                    "Rassegna Stampa"
             ],
             "date_published": "2018-06-16T18:05:00+02:00",
-            "date_modified": "2024-11-20T22:31:47+01:00"
+            "date_modified": "2024-11-20T22:37:12+01:00"
         }
     ]
 }
